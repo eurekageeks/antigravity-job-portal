@@ -39,7 +39,7 @@ import featureImg2 from '../assets/feature_2.jpg';
 import featureImg3 from '../assets/feature_3.jpg';
 import featureImg4 from '../assets/feature_4.jpg';
 
-const API_BASE = import.meta.env.VITE_API_URL || 'http://localhost:5000/api';
+const API_BASE = import.meta.env.VITE_API_URL || 'http://44.243.97.226/api';
 
 const CATEGORIES = [
   { name: 'IT & Software', icon: LaptopMacIcon, color: '#0ea5e9', bg: '#e0f2fe' },
