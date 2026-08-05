@@ -1,4 +1,4 @@
-USE firstjob;
+USE firstjobdb;
 
 -- Insert Users (Password: "Password123!")
 -- bcryptjs hash for "Password123!": $2a$10$X1j1T4g6U1Z9n/yV8Q1fA.f7H4mH47Rtfw5U5y/23yW9eZ02c7ZFe
