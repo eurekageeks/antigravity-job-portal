@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS firstjob;
-USE firstjob;
+CREATE DATABASE IF NOT EXISTS firstjobdb;
+USE firstjobdb;
 
 -- Drop tables in order of dependencies if they exist
 DROP TABLE IF EXISTS job_reviews;
