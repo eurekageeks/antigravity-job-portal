@@ -155,7 +155,7 @@ export default function Home() {
           </Typography>
 
           {/* Search Pill */}
-          <Paper elevation={0} sx={{ display: 'flex', flexDirection: { xs: 'column', sm: 'row' }, p: 1, borderRadius: { xs: '24px', sm: '50px' }, gap: 1, mx: 'auto', maxWidth: '800px', boxShadow: '0 12px 40px rgba(0,0,0,0.08)', bgcolor: 'white', border: '1px solid #e2e8f0' }}>
+          <Paper elevation={0} sx={{ display: 'flex', flexDirection: { xs: 'column', sm: 'row' }, p: 1, borderRadius: { xs: '24px', sm: '50px' }, gap: 1, mx: 'auto', maxWidth: '800px', boxShadow: '0 12px 40px rgba(0,0,0,0.08)', bgcolor: 'white', border: '2px solid #000000' }}>
             <TextField
               fullWidth
               placeholder="Job title, skills, or company"
