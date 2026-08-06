@@ -56,7 +56,7 @@ services:
       - "3000:3000"
 
     environment:
-      VITE_API_URL: http://100.23.94.137:5000/api
+      VITE_API_URL: http://35.90.136.27:5000/api
 
     volumes:
       - ./frontend:/app
